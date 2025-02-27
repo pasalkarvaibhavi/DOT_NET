@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\DAY 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\DAY 1.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\DAY 1.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\DAY 1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\bin\Debug\net8.0\DAY 1.exe
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\bin\Debug\net8.0\DAY 1.deps.json
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\bin\Debug\net8.0\DAY 1.runtimeconfig.json
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\bin\Debug\net8.0\DAY 1.dll
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\bin\Debug\net8.0\DAY 1.pdb
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\DAY 1.dll
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\refint\DAY 1.dll
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\DAY 1.pdb
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\DAY 1.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\DOT_NET\DAY_1\DAY 1\obj\Debug\net8.0\ref\DAY 1.dll
