@@ -1,0 +1,101 @@
+using System;
+
+namespace OOPCalculator
+{
+    class Calculator
+    {
+        public virtual double Calculate(double a, double b)
+        {
+            return 0;
+        }
+
+        public double Calculate(int a, int b)
+        {
+            return a + b;
+        }
+    }
+
+    class Addition : Calculator
+    {
+        public override double Calculate(double a, double b)
+        {
+            return a + b;
+        }
+    }
+
+    class Subtraction : Calculator
+    {
+        public override double Calculate(double a, double b)
+        {
+            return a - b;
+        }
+    }
+
+    class Multiplication : Calculator
+    {
+        public override double Calculate(double a, double b)
+        {
+            return a * b;
+        }
+    }
+
+    class Division : Calculator
+    {
+        public override double Calculate(double a, double b)
+        {
+            if (b == 0)
+            {
+                throw new DivideByZeroException("Error: Cannot divide by zero.");
+            }
+            return a / b;
+        }
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            try
+            {
+                Console.WriteLine("Calculator Application (Created by Student)");
+                
+                Console.Write("Enter first number: ");
+                double num1 = Convert.ToDouble(Console.ReadLine());
+
+                Console.Write("Enter second number: ");
+                double num2 = Convert.ToDouble(Console.ReadLine());
+
+                Console.Write("Choose operation (+, -, *, /): ");
+                char operation = Console.ReadKey().KeyChar;
+                Console.WriteLine();
+
+                Calculator calc;
+
+                switch (operation)
+                {
+                    case '+':
+                        calc = new Addition();
+                        break;
+                    case '-':
+                        calc = new Subtraction();
+                        break;
+                    case '*':
+                        calc = new Multiplication();
+                        break;
+                    case '/':
+                        calc = new Division();
+                        break;
+                    default:
+                        throw new InvalidOperationException("Error: Invalid operation.");
+                }
+
+                double result = calc.Calculate(num1, num2);
+                Console.WriteLine($"Result: {result}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
+        }
+    }
+}
