@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUABelSBan0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\portfolio\\portfolio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\bootstrap\\5.3.0\\bootstrap.5.3.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
