@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\8_File_Handling\Q1_FileHandling\bin\Debug\Q1_FileHandling.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\8_File_Handling\Q1_FileHandling\bin\Debug\Q1_FileHandling.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\8_File_Handling\Q1_FileHandling\bin\Debug\Q1_FileHandling.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\8_File_Handling\Q1_FileHandling\obj\Debug\Q1_FileHandling.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\8_File_Handling\Q1_FileHandling\obj\Debug\Q1_FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\8_File_Handling\Q1_FileHandling\obj\Debug\Q1_FileHandling.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\8_File_Handling\Q1_FileHandling\obj\Debug\Q1_FileHandling.pdb
