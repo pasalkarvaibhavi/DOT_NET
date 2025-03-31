@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\bin\Debug\4_College_Fest_Event_Handling.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\bin\Debug\4_College_Fest_Event_Handling.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\bin\Debug\4_College_Fest_Event_Handling.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\obj\Debug\4_College_Fest_Event_Handling.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\obj\Debug\_4_College_Fest_Event_Handling.Form1.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\obj\Debug\_4_College_Fest_Event_Handling.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\obj\Debug\4_College_Fest_Event_Handling.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\obj\Debug\4_College_Fest_Event_Handling.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\obj\Debug\4_College_Fest_Event_Handling.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\4_College_Fest_Event_Handling\obj\Debug\4_College_Fest_Event_Handling.pdb
