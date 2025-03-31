@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\1_C#_Language_Basics\bin\Debug\1_C#_Language_Basics.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\1_C#_Language_Basics\bin\Debug\1_C#_Language_Basics.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\1_C#_Language_Basics\bin\Debug\1_C#_Language_Basics.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\1_C#_Language_Basics\obj\Debug\1_C#_Language_Basics.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\1_C#_Language_Basics\obj\Debug\1_C#_Language_Basics.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\1_C#_Language_Basics\obj\Debug\1_C#_Language_Basics.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\1_C#_Language_Basics\obj\Debug\1_C#_Language_Basics.pdb
