@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\11_LINQ\Q2_LinQ\bin\Debug\Q2_LinQ.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\11_LINQ\Q2_LinQ\bin\Debug\Q2_LinQ.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\11_LINQ\Q2_LinQ\bin\Debug\Q2_LinQ.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\11_LINQ\Q2_LinQ\obj\Debug\Q2_LinQ.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\11_LINQ\Q2_LinQ\obj\Debug\Q2_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\11_LINQ\Q2_LinQ\obj\Debug\Q2_LinQ.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\11_LINQ\Q2_LinQ\obj\Debug\Q2_LinQ.pdb
