@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\3_String_Manipulation\bin\Debug\3_String_Manipulation.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\3_String_Manipulation\bin\Debug\3_String_Manipulation.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\3_String_Manipulation\bin\Debug\3_String_Manipulation.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\3_String_Manipulation\obj\Debug\3_String_Manipulation.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\3_String_Manipulation\obj\Debug\3_String_Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\3_String_Manipulation\obj\Debug\3_String_Manipulation.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\3_String_Manipulation\obj\Debug\3_String_Manipulation.pdb
