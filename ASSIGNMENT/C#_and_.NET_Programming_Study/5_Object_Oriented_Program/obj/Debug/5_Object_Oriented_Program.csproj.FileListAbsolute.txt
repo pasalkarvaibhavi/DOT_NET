@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\5_Object_Oriented_Program\bin\Debug\5_Object_Oriented_Program.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\5_Object_Oriented_Program\bin\Debug\5_Object_Oriented_Program.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\5_Object_Oriented_Program\bin\Debug\5_Object_Oriented_Program.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\5_Object_Oriented_Program\obj\Debug\5_Object_Oriented_Program.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\5_Object_Oriented_Program\obj\Debug\5_Object_Oriented_Program.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\5_Object_Oriented_Program\obj\Debug\5_Object_Oriented_Program.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\5_Object_Oriented_Program\obj\Debug\5_Object_Oriented_Program.pdb
