@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\bin\Debug\7a_Railway_Booking_Form.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\bin\Debug\7a_Railway_Booking_Form.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\bin\Debug\7a_Railway_Booking_Form.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\obj\Debug\7a_Railway_Booking_Form.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\obj\Debug\_7a_Railway_Booking_Form.Form1.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\obj\Debug\_7a_Railway_Booking_Form.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\obj\Debug\7a_Railway_Booking_Form.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\obj\Debug\7a_Railway_Booking_Form.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\obj\Debug\7a_Railway_Booking_Form.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7a_Railway_Booking_Form\obj\Debug\7a_Railway_Booking_Form.pdb

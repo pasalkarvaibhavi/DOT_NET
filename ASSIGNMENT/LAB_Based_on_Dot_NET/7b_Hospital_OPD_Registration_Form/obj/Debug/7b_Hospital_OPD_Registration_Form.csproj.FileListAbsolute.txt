@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\bin\Debug\7b_Hospital_OPD_Registration_Form.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\bin\Debug\7b_Hospital_OPD_Registration_Form.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\bin\Debug\7b_Hospital_OPD_Registration_Form.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\obj\Debug\7b_Hospital_OPD_Registration_Form.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\obj\Debug\_7b_Hospital_OPD_Registration_Form.Form1.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\obj\Debug\_7b_Hospital_OPD_Registration_Form.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\obj\Debug\7b_Hospital_OPD_Registration_Form.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\obj\Debug\7b_Hospital_OPD_Registration_Form.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\obj\Debug\7b_Hospital_OPD_Registration_Form.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\7b_Hospital_OPD_Registration_Form\obj\Debug\7b_Hospital_OPD_Registration_Form.pdb

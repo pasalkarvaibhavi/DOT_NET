@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\bin\Debug\6a_T-Shirt_Ordering_Calculator.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\bin\Debug\6a_T-Shirt_Ordering_Calculator.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\bin\Debug\6a_T-Shirt_Ordering_Calculator.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\obj\Debug\6a_T-Shirt_Ordering_Calculator.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\obj\Debug\_6a_T_Shirt_Ordering_Calculator.Form1.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\obj\Debug\_6a_T_Shirt_Ordering_Calculator.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\obj\Debug\6a_T-Shirt_Ordering_Calculator.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\obj\Debug\6a_T-Shirt_Ordering_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\obj\Debug\6a_T-Shirt_Ordering_Calculator.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6a_T-Shirt_Ordering_Calculator\obj\Debug\6a_T-Shirt_Ordering_Calculator.pdb

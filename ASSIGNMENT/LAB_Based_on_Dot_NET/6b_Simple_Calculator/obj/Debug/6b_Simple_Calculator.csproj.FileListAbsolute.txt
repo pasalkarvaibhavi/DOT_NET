@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\bin\Debug\6b_Simple_Calculator.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\bin\Debug\6b_Simple_Calculator.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\bin\Debug\6b_Simple_Calculator.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\obj\Debug\6b_Simple_Calculator.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\obj\Debug\_6b_Simple_Calculator.Form1.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\obj\Debug\_6b_Simple_Calculator.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\obj\Debug\6b_Simple_Calculator.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\obj\Debug\6b_Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\obj\Debug\6b_Simple_Calculator.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\6b_Simple_Calculator\obj\Debug\6b_Simple_Calculator.pdb
