@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\4_Digit_Sum_Calculation\bin\Debug\4_Digit_Sum_Calculation.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\4_Digit_Sum_Calculation\bin\Debug\4_Digit_Sum_Calculation.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\4_Digit_Sum_Calculation\bin\Debug\4_Digit_Sum_Calculation.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\4_Digit_Sum_Calculation\obj\Debug\4_Digit_Sum_Calculation.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\4_Digit_Sum_Calculation\obj\Debug\4_Digit_Sum_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\4_Digit_Sum_Calculation\obj\Debug\4_Digit_Sum_Calculation.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\4_Digit_Sum_Calculation\obj\Debug\4_Digit_Sum_Calculation.pdb
