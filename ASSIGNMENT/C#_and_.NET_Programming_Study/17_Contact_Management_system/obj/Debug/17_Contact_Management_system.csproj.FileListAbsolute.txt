@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\17_Contact_Management_system\obj\Debug\17_Contact_Management_system.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\17_Contact_Management_system\obj\Debug\17_Contact_Management_system.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\17_Contact_Management_system\bin\Debug\17_Contact_Management_system.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\17_Contact_Management_system\bin\Debug\17_Contact_Management_system.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\17_Contact_Management_system\bin\Debug\17_Contact_Management_system.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\17_Contact_Management_system\obj\Debug\17_Contact_Management_system.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\17_Contact_Management_system\obj\Debug\17_Contact_Management_system.pdb

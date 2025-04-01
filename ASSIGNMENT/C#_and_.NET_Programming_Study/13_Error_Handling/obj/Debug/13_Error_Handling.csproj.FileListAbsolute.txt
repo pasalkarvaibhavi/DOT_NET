@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\13_Error_Handling\bin\Debug\13_Error_Handling.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\13_Error_Handling\bin\Debug\13_Error_Handling.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\13_Error_Handling\bin\Debug\13_Error_Handling.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\13_Error_Handling\obj\Debug\13_Error_Handling.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\13_Error_Handling\obj\Debug\13_Error_Handling.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\13_Error_Handling\obj\Debug\13_Error_Handling.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\13_Error_Handling\obj\Debug\13_Error_Handling.pdb

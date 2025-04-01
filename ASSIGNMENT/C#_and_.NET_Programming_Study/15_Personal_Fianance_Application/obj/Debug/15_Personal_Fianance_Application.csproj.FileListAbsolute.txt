@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\15_Personal_Fianance_Application\bin\Debug\15_Personal_Fianance_Application.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\15_Personal_Fianance_Application\bin\Debug\15_Personal_Fianance_Application.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\15_Personal_Fianance_Application\bin\Debug\15_Personal_Fianance_Application.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\15_Personal_Fianance_Application\obj\Debug\15_Personal_Fianance_Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\15_Personal_Fianance_Application\obj\Debug\15_Personal_Fianance_Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\15_Personal_Fianance_Application\obj\Debug\15_Personal_Fianance_Application.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\15_Personal_Fianance_Application\obj\Debug\15_Personal_Fianance_Application.pdb
