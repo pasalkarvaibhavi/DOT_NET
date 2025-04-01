@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\12_UserInput_DataProcessing\bin\Debug\12_UserInput_DataProcessing.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\12_UserInput_DataProcessing\bin\Debug\12_UserInput_DataProcessing.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\12_UserInput_DataProcessing\bin\Debug\12_UserInput_DataProcessing.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\12_UserInput_DataProcessing\obj\Debug\12_UserInput_DataProcessing.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\12_UserInput_DataProcessing\obj\Debug\12_UserInput_DataProcessing.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\12_UserInput_DataProcessing\obj\Debug\12_UserInput_DataProcessing.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\12_UserInput_DataProcessing\obj\Debug\12_UserInput_DataProcessing.pdb
