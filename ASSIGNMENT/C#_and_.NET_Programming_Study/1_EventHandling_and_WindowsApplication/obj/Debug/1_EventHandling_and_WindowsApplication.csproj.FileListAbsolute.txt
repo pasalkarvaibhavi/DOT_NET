@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\bin\Debug\1_EventHandling_and_WindowsApplication.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\bin\Debug\1_EventHandling_and_WindowsApplication.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\bin\Debug\1_EventHandling_and_WindowsApplication.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\obj\Debug\1_EventHandling_and_WindowsApplication.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\obj\Debug\_1_EventHandling_and_WindowsApplication.Form1.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\obj\Debug\_1_EventHandling_and_WindowsApplication.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\obj\Debug\1_EventHandling_and_WindowsApplication.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\obj\Debug\1_EventHandling_and_WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\obj\Debug\1_EventHandling_and_WindowsApplication.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\1_EventHandling_and_WindowsApplication\obj\Debug\1_EventHandling_and_WindowsApplication.pdb
