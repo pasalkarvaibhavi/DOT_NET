@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\bin\Debug\2_Delegate_Based_Calculator.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\bin\Debug\2_Delegate_Based_Calculator.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\obj\Debug\2_Delegate_Based_Calculator.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\obj\Debug\DelegateBasedCalculator.Form1.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\obj\Debug\_2_Delegate_Based_Calculator.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\obj\Debug\2_Delegate_Based_Calculator.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\obj\Debug\2_Delegate_Based_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\obj\Debug\2_Delegate_Based_Calculator.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\2_Delegate_Based_Calculator\obj\Debug\2_Delegate_Based_Calculator.pdb
