@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\obj\Debug\6_Windows_Form_Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\obj\Debug\_6_Windows_Form_Application.Form1.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\obj\Debug\_6_Windows_Form_Application.Properties.Resources.resources
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\obj\Debug\6_Windows_Form_Application.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\obj\Debug\6_Windows_Form_Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\bin\Debug\6_Windows_Form_Application.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\bin\Debug\6_Windows_Form_Application.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\bin\Debug\6_Windows_Form_Application.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\obj\Debug\6_Windows_Form_Application.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\C#_and_.NET_Programming_Study\6_Windows_Form_Application\obj\Debug\6_Windows_Form_Application.pdb
