@@ -6,7 +6,7 @@ namespace _12_UserInput_DataProcessing
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("User Input and Data Processing Demo");
+            
 
             Console.Write("Enter your name: ");
             string name = Console.ReadLine().Trim();
