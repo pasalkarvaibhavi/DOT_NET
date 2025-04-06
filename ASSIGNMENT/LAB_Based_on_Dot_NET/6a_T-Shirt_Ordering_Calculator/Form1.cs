@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 using System.Windows.Forms;
 
 namespace _6a_T_Shirt_Ordering_Calculator
@@ -60,13 +54,10 @@ namespace _6a_T_Shirt_Ordering_Calculator
             double gstAmount = totalPrice * 0.09;
             double finalAmount = totalPrice + gstAmount;
 
-            label5.Text = $"Final Amount (including 9% GST): ₹{finalAmount:F2}";
+            label5.Text = $"Final Amount (including 9% GST)1: ₹{finalAmount:F2}";
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+     
     }
 }
 

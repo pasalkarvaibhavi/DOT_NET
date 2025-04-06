@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 using System.IO;
 
 namespace Q1_FileHandling
@@ -15,6 +9,7 @@ namespace Q1_FileHandling
         {
             
             String filePath = "sample.txt";
+
             while (true)
             {
                 Console.WriteLine("\n--- File Operations ---");
@@ -28,7 +23,7 @@ namespace Q1_FileHandling
                 switch (choice)
                 {
                     case "1":
-                        Console.Write("Enter text to write to the file: ");
+                        Console.Write("Enter text to write in the file: ");
                         string writeText = Console.ReadLine();
                         File.WriteAllText(filePath, writeText);
                         Console.WriteLine("Text written successfully.");

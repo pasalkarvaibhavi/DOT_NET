@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
+
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Q2_FileHandling
 {
@@ -67,7 +64,6 @@ namespace Q2_FileHandling
             }
         }
 
-        // Function to read data from a binary file
         static void ReadBinaryFile(string filePath)
         {
             if (!File.Exists(filePath))

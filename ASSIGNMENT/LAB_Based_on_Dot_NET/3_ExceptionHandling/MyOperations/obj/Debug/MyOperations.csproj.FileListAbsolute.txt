@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\MyOperations\bin\Debug\MyOperations.exe.config
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\MyOperations\bin\Debug\MyOperations.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\MyOperations\bin\Debug\MyOperations.pdb
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\MyOperations\obj\Debug\MyOperations.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\MyOperations\obj\Debug\MyOperations.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\MyOperations\obj\Debug\MyOperations.exe
+C:\Users\lenovo\Desktop\DOT_NET\ASSIGNMENT\LAB_Based_on_Dot_NET\MyOperations\obj\Debug\MyOperations.pdb

@@ -74,10 +74,10 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F);
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.label4.Location = new System.Drawing.Point(331, 309);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(61, 22);
+            this.label4.Size = new System.Drawing.Size(92, 31);
             this.label4.TabIndex = 3;
             this.label4.Text = "Result";
             // 

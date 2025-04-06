@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\DOT_NET\\ASSIGNMENT\\LAB_Based_on_Dot_NET\\MyOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A704200A-863F-4A45-8959-A1C222BDA41B}|..\\ExceptionHandlingApp\\ExceptionHandlingApp.csproj|c:\\users\\lenovo\\desktop\\dot_net\\assignment\\lab_based_on_dot_net\\exceptionhandlingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E96F1BB-88C8-4278-8CA9-5A16C2BEFB23}|MyOperations.csproj|c:\\users\\lenovo\\desktop\\dot_net\\assignment\\lab_based_on_dot_net\\myoperations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E96F1BB-88C8-4278-8CA9-5A16C2BEFB23}|MyOperations.csproj|solutionrelative:operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E96F1BB-88C8-4278-8CA9-5A16C2BEFB23}|MyOperations.csproj|c:\\users\\lenovo\\desktop\\dot_net\\assignment\\lab_based_on_dot_net\\myoperations\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E96F1BB-88C8-4278-8CA9-5A16C2BEFB23}|MyOperations.csproj|solutionrelative:mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\DOT_NET\\ASSIGNMENT\\LAB_Based_on_Dot_NET\\ExceptionHandlingApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExceptionHandlingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\DOT_NET\\ASSIGNMENT\\LAB_Based_on_Dot_NET\\ExceptionHandlingApp\\Program.cs",
+              "RelativeToolTip": "..\\ExceptionHandlingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:00:40.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\DOT_NET\\ASSIGNMENT\\LAB_Based_on_Dot_NET\\MyOperations\\Operations.cs",
+              "RelativeDocumentMoniker": "Operations.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\DOT_NET\\ASSIGNMENT\\LAB_Based_on_Dot_NET\\MyOperations\\Operations.cs",
+              "RelativeToolTip": "Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:59:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\DOT_NET\\ASSIGNMENT\\LAB_Based_on_Dot_NET\\MyOperations\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "MyCustomException.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\DOT_NET\\ASSIGNMENT\\LAB_Based_on_Dot_NET\\MyOperations\\MyCustomException.cs",
+              "RelativeToolTip": "MyCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:58:12.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -25,12 +25,11 @@ namespace _7b_Hospital_OPD_Registration_Form
             string gender = radioButton1.Checked ? "Male" : radioButton2.Checked ? "Female" : "Other";
             
 
-            string paymentMode = radioButton4.Checked ? "Cash" : radioButton5.Checked ? "Card" : "UPI";
 
             string details = $"Patient Name: {textBox1.Text}\nAge: {textBox2.Text}\nGender: {gender}\n" +
                              $"Contact: {textBox3.Text}\nDepartment: {comboBox1.SelectedItem}\n" +
-                             $"Doctor: {comboBox2.SelectedItem}\nAppointment Date: {dateTimePicker1.Value.ToShortDateString()}\n" +
-                             $"\nPayment Mode: {paymentMode}";
+                             $"Doctor: {comboBox2.SelectedItem}\nAppointment Date: {dateTimePicker1.Value.ToShortDateString()}\n" 
+                             ;
 
             label11.Text = "Registration Successful!";
             MessageBox.Show(details, "Registration Details", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -46,7 +45,6 @@ namespace _7b_Hospital_OPD_Registration_Form
             comboBox1.SelectedIndex = -1;
             comboBox2.SelectedIndex = -1;
             dateTimePicker1.Value = DateTime.Today;
-            radioButton4.Checked = radioButton5.Checked = radioButton6.Checked = false;
             label11.Text = "";
         }
 
@@ -76,5 +74,7 @@ namespace _7b_Hospital_OPD_Registration_Form
             }
             comboBox2.SelectedIndex = 0;
         }
+
+      
     }
 }

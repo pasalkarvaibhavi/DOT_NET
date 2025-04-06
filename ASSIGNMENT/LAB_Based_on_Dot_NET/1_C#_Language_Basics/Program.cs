@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _1_C__Language_Basics
 {
@@ -10,7 +6,6 @@ namespace _1_C__Language_Basics
     {
         static void Main(string[] args)
         {
-
             while (true)
             {
                 Console.WriteLine("\n--- MENU ---");
@@ -77,6 +72,7 @@ namespace _1_C__Language_Basics
         }
     }
 }
+
 
 /*Output:
  

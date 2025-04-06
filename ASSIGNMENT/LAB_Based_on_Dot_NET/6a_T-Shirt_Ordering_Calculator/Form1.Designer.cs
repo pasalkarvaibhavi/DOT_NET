@@ -93,16 +93,10 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(167, 24);
             this.textBox2.TabIndex = 5;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // comboBox1
             // 
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            "Small ",
-            "Medium ",
-            "Large"});
             this.comboBox1.Location = new System.Drawing.Point(415, 120);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(167, 26);
@@ -124,11 +118,11 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.label5.ForeColor = System.Drawing.Color.Red;
-            this.label5.Location = new System.Drawing.Point(372, 287);
+            this.label5.Location = new System.Drawing.Point(237, 306);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(57, 20);
+            this.label5.Size = new System.Drawing.Size(92, 31);
             this.label5.TabIndex = 8;
             this.label5.Text = "Result";
             // 
